@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+	transition-delay: .1s;
+    transition-duration: .2s;
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	color: #333;
+	font-size: 18px;
+	font-style: none;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #DE4343;
+}
+
+li {
+	margin-bottom: 8px;
+}
+
+@media (orientation: portrait) {
+
+	img {
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+		display: block;	
+	}
+
+	ul {
+		margin: 0px;
+		padding-left: 8px;
+		list-style: none;	
+	}
+
+	h4 {
+		font-weight: lighter;	
+		text-transform: uppercase;
+	}
+
+	p {
+		text-align: justify;
+	}
+
+	input[type="button"] {
+		padding: 8px;	
+		color: #DE4343;
+		font-size: 16px;		
+		text-align: center;		
+		background-color: #FFF;
+		border: 2px solid #DE4343;
+		text-transform: uppercase;
+		margin: 32px 0px;
+	}
+
+	input[type="button"]:focus, input[type="button"]:hover {
+		outline: 0;
+		color: #F9F9F9;
+		cursor: pointer;
+		background-color: #DE4343;
+	}
+
+	div.right {
+		margin-top: 64px;
+	}
+}
+
+@media (orientation: landscape) {
+
+	img {	
+		width: 75%;
+		max-width: 680px;
+		max-height: 440px;		
+		margin-right: auto;
+		margin-left: auto;
+		display: block;	
+	}
+
+	ul {
+		margin: 0px;
+		padding-left: 8px;
+		list-style: none;	
+	}
+
+	h4 {
+		font-weight: lighter;	
+		text-transform: uppercase;
+	}
+
+	p {
+		text-align: justify;
+	}
+
+	input[type="button"] {
+		padding: 8px;	
+		color: #DE4343;
+		font-size: 16px;		
+		text-align: center;		
+		background-color: #FFF;
+		border: 2px solid #DE4343;
+		text-transform: uppercase;
+	}
+
+	input[type="button"]:focus, input[type="button"]:hover {
+		outline: 0;		
+		color: #F9F9F9;
+		cursor: pointer;
+		margin-bottom: 128px;
+		background-color: #DE4343;
+	}
+
+	body {
+		padding:0px 64px;
+	}
+
+	div.right {
+		width: 75%;
+		float: right;
+	}
+
+	div.left {
+		width: 25%;
+		float: left;
+	}
+	
+	div.wrapper {
+		width: 75%;
+		display: block;
+		margin: 64px auto;
+	}
+}
