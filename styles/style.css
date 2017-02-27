@@ -50,7 +50,7 @@ li {
 		text-align: justify;
 	}
 
-	input[type="button"] {
+	a.contacto {
 		padding: 8px;	
 		color: #DE4343;
 		font-size: 16px;		
@@ -61,7 +61,7 @@ li {
 		margin: 32px 0px;
 	}
 
-	input[type="button"]:focus, input[type="button"]:hover {
+	a.contacto:focus, a.contacto:hover {
 		outline: 0;
 		color: #F9F9F9;
 		cursor: pointer;
@@ -99,7 +99,7 @@ li {
 		text-align: justify;
 	}
 
-	input[type="button"] {
+	a.contacto {
 		padding: 8px;	
 		color: #DE4343;
 		font-size: 16px;		
@@ -109,7 +109,7 @@ li {
 		text-transform: uppercase;
 	}
 
-	input[type="button"]:focus, input[type="button"]:hover {
+	a.contacto:focus, a.contacto:hover {
 		outline: 0;		
 		color: #F9F9F9;
 		cursor: pointer;
