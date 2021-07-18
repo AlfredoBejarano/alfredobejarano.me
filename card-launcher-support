@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Simpe Card Launcher</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="styles/support-styles.css">
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗂️</text></svg>">
+</head>
+<body>
+	<div>
+		<h1>Simple Card Launcher - Pantalla de Inicio, Simple</h1>
+		<p>
+			Bienvenido a nuestra de página de políticas de privacidad para Simple Card Launcher - Pantalla de Inicio, Simple
+		</p>
+    <p>
+      Simple Card Launcher - Pantalla de Inicio, Simple es una aplicación que ayuda a la gente con problemas visuales a utilizar mejor su dispositivo android.
+    </p>
+    <p>
+      Simple Card Launcher - Pantalla de Inicio, Simple no recopila información ni datos del dispositivo o del usuario.
+    </p>
+		<p>
+			Gracias por usar la aplicación, espero te sea de utilidad.
+			<i>Alfredo Bejarano</i>
+		</p>
+	</div>
+</body>
+</html>
