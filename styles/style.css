@@ -1,61 +1,130 @@
+@media only screen and (min-width: 1500px) {
+ :root {
+ 	--containerWidth: 25%;
+ }
+}
+
+@media only screen and (max-width: 1499px) {
+ :root {
+ 	--containerWidth: 50%;
+ }
+}
+
+@media only screen and (max-width: 600px) {
+ :root {
+ 	--containerWidth: 90%;
+ }	
+}
+
+:root {
+	/*  Containers */
+	--borderRadius: 8px;
+	--surfaceColor: #202020;
+	--backgroundColor: #0C0C0C;	
+
+	/* Text items */
+	--textPrimarySize: 24px;
+	--textPrimaryColor: #FAFAFA;
+
+	--textSecondarySize: 18px;
+	--textSecondaryColor: #AAA;	
+
+	--textTertiarySize: 16px;
+	--textTertiaryColor: #555;		
+}
+
+
 @font-face {
 	font-family: Avenir;
 	src: url(../fonts/avenir.woff);
 }
 
+body {
+	text-align: center;
+	background: var(--backgroundColor);
+}
+
+.fa-android {
+	color: #4caf50;
+}
+
+.textPrimary {
+	font-size: var(--textPrimarySize);	
+	font-family: Avenir;
+	color: var(--textPrimaryColor);
+}
+
+.textSecondary {
+	font-size: var(--textSecondarySize);
+	font-family: Avenir;
+	color: var(--textSecondaryColor);
+}
+
+.textTertiary {
+	font-size: var(--textTertiarySize);
+	font-family: Avenir;
+	color: var(--textTertiaryColor);
+}
+
+.surface {
+	background: var(--surfaceColor);
+	border-radius: var(--borderRadius);
+}
+
+/* Items  */
+
+.job-position {
+	display: block;
+	margin: auto;
+	width: var(--containerWidth);
+	text-align: left;
+}
+
+.cover-letter {
+	width: var(--containerWidth);
+	padding: 16px;		
+	display: block;
+	text-align: justify;
+	margin: auto;
+}
+
+.easter-egg {
+	text-align: center !important;
+}
+
+img.picture {
+	border-radius: var(--borderRadius);
+	width: 120px;
+	float: top;
+	margin: auto;
+	display: block;
+}
+
+img.companyLogo {
+	border-radius: var(--borderRadius);
+	width: 70px;
+	float: left;
+	margin-right: 8px;
+	display: block;
+}
+
+nav {	
+	padding: 24px 16px;
+	text-align: center;	
+}
+
+table {
+	display: block;
+	width: var(--containerWidth);
+	margin: auto;
+}
+
+/* Legacy Styles  */
 * {
 	transition-delay: .1s;
     transition-duration: .2s;
     transition-property: all;
     transition-timing-function: cubic-bezier(.4,0,.2,1);
-}
-
-html, body {
-	width: 100%;
-	height: 100%;
-	border: 0;
-	margin: 0;
-	padding: 0;
-	font: inherit;
-	display: table;
-	vertical-align: baseline;
-	font-family: Avenir, sans-serif !important;
-}
-
-div.main {
-	width: 100%;
-	text-align: center;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	line-height: 1.5;
-	margin: 0 0 0.75em 0;
-}
-
-h1 {
-	font-size: 32px;
-	margin: 0 0 0.525em 0;
-	text-decoration: none;
-}
-
-p {
-	font-size: 20px;
-	margin: 0 0 1.5em 0;
-}
-
-header {
-	height: 128px;
-	padding: 16px;
-	margin-bottom: 186px;
-	background-color: #009688;
-	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
-}
-
-img {
-	max-width: 207px;
-	min-width: 207px;
-	border-radius: 50%;
-	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 }
 
 ul {
@@ -79,7 +148,7 @@ ul li a {
 	width: 3.75em;
 	height: 3.75em;
 	border-radius: 100%;
-	border: solid 1px #060606;
+	border: solid 1px var(--textPrimaryColor);
 	line-height: 3.75em;
 	overflow: hidden;
 	text-align: center;
@@ -94,7 +163,7 @@ ul li a:before {
 }
 
 ul li a:before {
-	color: #060606;
+	color: var(--textPrimaryColor);
 }
 
 ul li a:hover:before {
@@ -117,8 +186,4 @@ ul li a:before {
 
 ul li a:hover {
 	border-color: #FFC107;
-}
-
-.fa-android {
-	color: #4CAF50;
 }

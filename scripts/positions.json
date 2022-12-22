@@ -1,0 +1,152 @@
+[
+	{
+		"company":"Ualá ABC",
+		"position":"Sr. Android Developer",
+		"location":"Remote",
+		"duration":"Aug. 2021 - Nov 2022",
+		"icon":"https://play-lh.googleusercontent.com/TRFSmOw4TsSo6UeEc_wLQS2QgsRA02HTC2ZqPTFr0WEyPCoYuNWsRZul6prU07Whgfg=w240-h480-rw",
+		"brief":"Helped improve the lifestyle of hundreds of thousands of Mexicans with a simpler and more efficient digital bank contributing to cash IO and remittance operations for the Android mobile app.",
+		"points":[
+			"Developed from scratch the “remittances” product, a solution that helps Mexican receive income from relatives from the US.",
+			"Refactored the Cash in and Cash Out features of the app from a single repository into 100% kotlin modules.",
+			"Helped stablish a common architecture and testing patterns for the whole android team",
+			"Helped migrating from Dagger to Hilt",
+			"Helped implementing a dynamic view system with backend endpoints and jetpack compose",
+			"Implemented tokenization for all transactions within the app"
+		],
+		"skills":[
+		"Multi-module Android project",
+		"Library publication through Maven",
+		"MVVM architecture",
+		"Dagger",
+		"LiveData",
+		"ViewModel",
+		"Room",
+		"Retrofit",
+		"ConstriantLayout",
+		"Feature flagging with Split",
+		"RxJava",
+		"Zeplin",
+		"Git",
+		"Bitbucket"
+		]
+	},	
+	{
+		"company":"Rappi (RappiPay)",
+		"position":"Sr. Android Developer",
+		"location":"Polanco V Secc., CDMX",
+		"duration":"Feb. 2020 - Jul 2021",
+		"icon":"https://play-lh.googleusercontent.com/-TmIAQEG8r1YOzu6yxKjy0wzftmv-IuX8FtPic6y4nISsCyH5M-tnp4gKWPnFuSsZ54=w240-h480-rw",
+		"brief":"Joined to the first Colombian unicorn! Here I optimized how people pay for stuff with the brand-new RappiPay team, oh yeah, Im also responsible for the RappiCard product. The first credit card to revolutionize (now-standard) card features in LATAM like numberless cards, freezing, and managing through an app.",
+		"points":[
+			"Helped in giving hundreds of thousands of people their first credit",
+			"Improve the product overall! Improving direction predictions for deliveries, improving screen details for when placing an order.",
+			"Implementing new features very quickly. Even though it is a big company, Rappi had the startup spirit all the time."
+		],
+		"skills":[
+		"Multi-module Android project",
+		"Library publication through Maven",
+		"MVVM architecture",
+		"Dagger",
+		"LiveData",
+		"ViewModel",
+		"Room",
+		"Retrofit",
+		"ConstriantLayout",
+		"Feature flagging with Split",
+		"RxJava",
+		"Zeplin",
+		"Git",
+		"Bitbucket"
+		]
+	},	
+	{
+		"company":"Grin SAPI de CV",
+		"position":"Sr. Android Developer",
+		"location":"Roma Norte, CDMX",
+		"duration":"Dec. 2018 - Feb 2020",
+		"icon":"https://play-lh.googleusercontent.com/UB05gXsGb__k19HCxNBhrT5pxFge2mEr0M5S0KlUsd7bsPM75JeqmW-ULlGiySChmrU=w240-h480-rw",
+		"brief":"Offered an alternative mobility solution for the uproar of a city that is Mexico City. Delivered not only a quality app for renting scooters, but also delivered tools and apps for the internal people of the warehouses. Joined to a company full of awesome and very talented people.",
+		"points":[
+			"Created projects left and right. An app for warehouse managed, an app for managing scooters (out in the streets and in maintenance)",
+			"Also refactoring a lot of code, Grin was born in a weekend, so, when it became a more mature startup, the apps had to escalate and improve.",
+			"I wrote libraries! I had to get quite low level with BLE to provide a general library for communicating with the scooters, that was used by every app within Grin.",
+			"Powered by AI! Had to implement various security checks for people when picking up scooters from the streets to the warehouse, Firebase ML Kit helped detect how many scooters where being picked up with just a picture!",
+			"Oh yeah, also built a QR Scanner using CameraX and Firebase Vision APIs."		
+		],
+		"skills":[
+			"BLE libraries in Android",
+			"Kotlin",
+			"LiveData",
+			"Room",
+			"ConstraintLayout",
+			"RxJava",
+			"Coroutines",
+			"Firebase (ML Kit, Vision, analytics, Realtime Database)",
+			"Google Location Services",
+			"Google Maps Services",
+			"Zeplin",
+			"Dagger",			
+			"Git",
+			"Github"
+		]
+	},	
+	{
+		"company":"Urbvan (Nasdaq: Swvl)",
+		"position":"Android Developer",
+		"location":"Roma Sur, CDMX",
+		"duration":"Mar. 2017 - Jul. 2018",
+		"icon":"https://play-lh.googleusercontent.com/rsElW4X2PE6-x0TeNCfTB6qlUno5LYL6D3IZ05bJxE0nxrgD8ud96Smw0K6fTwIAgQ=w240-h480-rw",
+		"brief":"Optimized commuting times for the people in Mexico City with a beautiful and snappy app. Got the opportunity to early in my career help and watch a startup grow.",
+		"points":[
+			"I was the 6th people on all Urbvan and the only android dev (and mobile dev for that matter) so had to take ownership fast, here I learned how to “take ownership”, The founders, Renato Picard and Joao Albino, were awesome mentors and are good friends.",
+			"Had to maintain and escalate until it was rentable the codebase from a software agency, then, I had to rewrite both riders and drivers apps with brand new technologies and methodologies in 2 months, and managed to do it while learning in the process!, most of the code is still in use today!",
+			"I were the sole android dev, which was tough because I only had a year of Android experience at the time, had to learn how to make choices, learn more android stuff and work around my lack of experience at the time, a scary but awesome experience."
+		],
+		"skills":[
+			"Java",
+			"MVP Architecture Pattern",
+			"Clean Architecture",
+			"Retrofit",
+			"Java Thread class",
+			"ThreadPools",
+			"Firebase (Analytics, RealTime Database)",
+			"Google Maps Services",
+			"Google Location Services",
+			"Kotlin",
+			"ConstraintLayout",
+			"Adobe XD",
+			"Stripe",
+			"Git",
+			"Github"
+		]
+	},
+	{
+		"company":"MercadoLibre",
+		"position":"Jr. Android Developer",
+		"location":"Credito Constructor, CDMX",
+		"duration":"Sep. 2015 - Nov. 2016",
+		"icon":"https://play-lh.googleusercontent.com/SYFK0mRWzAVPAClRcJ_y-Xy5xyx5z_1qF6lMoDGkkBfRMpE3VDtQpdiMRyeYD2fec08=w240-h480-rw",
+		"brief":"The beginning of my career, here I learned the foundation of everything I know today with the help of a very mature team of experts and leaders while improving classified listings in LATAM.",
+		"points":[
+			"Learned everything from zero. How to write scalable code, how to test it, how to merge it.",
+			"Improved the SYI (sell your item) flow for the company",
+			"Improved the AutoPlaza/TuCarro apps. Two apps for different regions that shared the same codebase through Android Flavors",
+			"Helped migrate apps and code from a MercadoLibre acquisition of Grupo Expansion into the main app (nowdays the listing for house rentals)."
+		],
+		"skills":[
+			"Java",
+			"MVP Architecture Pattern",
+			"Clean Architecture",
+			"Retrofit",
+			"Google Volley",
+			"RxJava",
+			"JUnit",
+			"Mockito",
+			"Robolectric",
+			"Zeplin",
+			"Git",
+			"Github"
+		]
+	}
+]
