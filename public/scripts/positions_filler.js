@@ -13,6 +13,8 @@ function getPositions() {
 function renderPositions(positions) {
 	var experiencesContainer = document.getElementById("experiences")
 
+	experiencesContainer.replaceChildren()
+
 	positions.forEach(function (position) {
 		var container = document.createElement("div")
 		container.className = "job-position surface"
