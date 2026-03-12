@@ -1,0 +1,19 @@
+div {
+	display: block;
+	width: 75%;
+	margin: 0px auto 0px auto;
+	background: #424242;
+	color: #F9F9F9;
+	padding: 8px 16px 8px 16px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+	border-radius: 8px;
+}
+
+i {
+	float: right;
+}
+
+body {
+	font-family: Helvetica;
+	background: #121212;
+}
