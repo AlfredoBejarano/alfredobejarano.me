@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800">
+  <g fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity="0.12">
+    <path d="M80,720 Q80,680 110,680 L150,680 Q180,680 180,720 L180,780 L80,780 Z" />
+    <path d="M100,665 A25,25 0 0,1 160,665" />
+    <circle cx="115" cy="655" r="2" fill="currentColor" />
+    <circle cx="145" cy="655" r="2" fill="currentColor" />
+    <line x1="110" y1="645" x2="100" y2="625" />
+    <line x1="150" y1="645" x2="160" y2="625" />
+    
+    <path d="M450,420 Q450,380 480,380 L520,380 Q550,380 550,420 L550,480 L450,480 Z" />
+    <path d="M470,365 A25,25 0 0,1 530,365" />
+    <line x1="480" y1="345" x2="470" y2="325" />
+    <line x1="520" y1="345" x2="530" y2="325" />
+
+    <path d="M850,150 Q850,110 880,110 L920,110 Q950,110 950,150 L950,210 L850,210 Z" />
+    <path d="M870,95 A25,25 0 0,1 930,95" />
+    <line x1="880" y1="75" x2="870" y2="55" />
+    <line x1="920" y1="75" x2="930" y2="55" />
+
+    <path d="M0,300 L150,300 L200,350 L400,350 M300,100 L300,250 L250,300" />
+    <path d="M1000,500 L850,500 L800,450 L600,450 M700,800 L700,650 L750,600" />
+    <circle cx="400" cy="350" r="4" fill="currentColor" />
+    <circle cx="600" cy="450" r="4" fill="currentColor" />
+  </g>
+</svg>
