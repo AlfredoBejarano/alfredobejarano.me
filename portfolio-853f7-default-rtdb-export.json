@@ -1,0 +1,232 @@
+[
+  {
+    "company": "Reddit Inc.",
+    "color": "#FF4500",
+    "duration": "Apr. 2025 - Apr. 2026",
+    "icon": "./images/reddit.webp",
+    "brief": "The heart of the internet.",
+    "location": "Remote",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Architected and built new B2B-oriented features for the Reddit Android app from the ground up.",
+      "Developed the 'Trends' dashboard, enabling brands to monitor real-time keyword usage across subreddits, comments, and posts.",
+      "Authored comprehensive technical design documents for new feature experiments and platform improvements.",
+      "Conducted analytics audits and implemented robust experimentation frameworks for high-impact feature releases.",
+      "Rapidly prototyped and iterated on future Android implementations to validate product-market fit.",
+      "Maintained high code quality by implementing unit tests and squashing critical bugs with high efficiency."
+    ],
+    "skills": [
+      "Kotlin",
+      "Coroutines",
+      "Flow",
+      "MVI Architecture",
+      "Mockito",
+      "JUnit",
+      "Strikt",
+      "Robolectric",
+      "UI testing for Compose",
+      "UI Automator",
+      "GraphQL",
+      "Dagger",
+      "Anvil",
+      "Figma",
+      "Git",
+      "Github Actions",
+      "Buildkite"
+    ]
+  },
+  {
+    "company": "Orion Innovation: Sonos",
+    "color": "#000000",
+    "duration": "Jul. 2023 - Mar. 2025",
+    "icon": "./images/sonos.webp",
+    "brief": "Premium home sound systems and wireless speakers.",
+    "location": "Remote",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Developed the next-generation Sonos app, enabling seamless high-fidelity music playback via WiFi connectivity.",
+      "Built intuitive interfaces for complex multi-room speaker system configuration and management.",
+      "Engineered a common internal SDK to unify multiple third-party music service integrations.",
+      "Collaborated on critical bug fixes and performance optimizations to maintain premium hardware-software synchronization.",
+      "Ensured platform stability through rigorous unit testing and automated UI testing using Robolectric and Compose UI Test."
+    ],
+    "skills": [
+      "Kotlin",
+      "Coroutines",
+      "Flow",
+      "ViewModel",
+      "Room",
+      "Navigation Compose",
+      "Dagger",
+      "Anvil",
+      "Jetpack Compose",
+      "Mockito",
+      "JUnit",
+      "Robolectric",
+      "UI Automator",
+      "GraphQL",
+      "Firebase",
+      "Zeplin"
+    ]
+  },
+  {
+    "company": "Orion Innovation: PrePass",
+    "color": "#603BF6",
+    "duration": "Jan. 2023 - Jun. 2023",
+    "icon": "./images/prepass.webp",
+    "brief": "Advanced logistics and bypass solutions for the trucking industry.",
+    "location": "Remote",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Architected a green-field project providing digital tools for truck drivers to manage trips and cargo across the US.",
+      "Implemented modern Android standards including Jetpack Compose, Kotlin Coroutines, and Flow from day one.",
+      "Established CI/CD automated workflows for unit and UI testing to ensure rapid, reliable deployment cycles.",
+      "Provided technical mentorship to the team, documenting best practices for 'how' and 'why' new tools were implemented.",
+      "Led the effort to write 100% of the initial unit and UI testing suite for the project."
+    ],
+    "skills": [
+      "Jetpack Compose",
+      "Hilt",
+      "Kotlin Coroutines",
+      "StateFlow",
+      "Room",
+      "Azure Pipelines",
+      "Azure CVO",
+      "Retrofit",
+      "MVVM",
+      "UI Automator"
+    ]
+  },
+  {
+    "company": "MediaLab (WorldStarHipHop)",
+    "color": "#CE1117",
+    "duration": "Apr. 2021 - Dec. 2022",
+    "icon": "./images/wshh.jpg",
+    "brief": "Leading global media and technology platform with millions of concurrent users.",
+    "location": "Remote",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Engineered a 100% serverless mobile architecture for WorldStarHipHop, utilizing the full Firebase ecosystem to manage backend logic, data, and media for millions of users.",
+      "Architected real-time content delivery and user interactions using Cloud Firestore and Realtime Database to handle massive concurrent traffic spikes.",
+      "Leveraged Cloud Functions to implement server-side logic and automated triggers, eliminating the need for a traditional custom backend.",
+      "Managed global media distribution and storage using Firebase Storage, optimizing delivery for high-definition video content.",
+      "Implemented advanced user authentication, remote configuration, and dynamic feature flagging using the complete Firebase toolset.",
+      "Refactored the application into 100% Kotlin modules and migrated the DI framework from Dagger to Hilt to improve development velocity."
+    ],
+    "skills": [
+      "ExoPlayer",
+      "Serverless Architecture",
+      "Firebase (Firestore, Auth, Functions, Storage, Analytics, Remote Config)",
+      "Real-time Data Sync",
+      "Jetpack Compose",
+      "Hilt",
+      "Kotlin Coroutines",
+      "Multi-module Architecture",
+      "MVVM",
+      "Retrofit",
+      "Git"
+    ]
+  },
+  {
+    "company": "Rappi (RappiPay)",
+    "color": "#FF445D",
+    "duration": "Feb. 2020 - Apr. 2021",
+    "icon": "./images/rappi.webp",
+    "brief": "The first Colombian unicorn and a leader in LATAM fintech.",
+    "location": "Polanco, CDMX",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Integral member of the RappiPay team, developing the RappiCard—the first credit card to introduce numberless cards and in-app management in LATAM.",
+      "Optimized logistics features including delivery direction prediction algorithms and enhanced order placement screens.",
+      "Scaled financial features to provide credit access to hundreds of thousands of first-time users.",
+      "Maintained a fast-paced development cycle, delivering critical features and bug fixes in a high-growth startup environment."
+    ],
+    "skills": [
+      "Multi-module Project",
+      "Fintech Security",
+      "Dagger",
+      "LiveData",
+      "RxJava",
+      "ConstraintLayout",
+      "Feature Flagging",
+      "Maven",
+      "Bitbucket"
+    ]
+  },
+  {
+    "company": "Grin Scooters",
+    "color": "#00D676",
+    "duration": "Dec. 2018 - Feb. 2020",
+    "icon": "./images/grin.webp",
+    "brief": "Last-mile micro-mobility startup providing scooter rentals in LATAM.",
+    "location": "Roma Norte, CDMX",
+    "position": "Sr. Android Developer",
+    "points": [
+      "Developed a suite of apps including a warehouse management system and street maintenance tools for scooter fleets.",
+      "Engineered a low-level BLE (Bluetooth Low Energy) library for standardized scooter communication used across all company apps.",
+      "Integrated Firebase ML Kit to automate scooter inventory checks via image recognition for warehouse personnel.",
+      "Built a custom high-performance QR Scanner utilizing CameraX and Firebase Vision APIs.",
+      "Led extensive refactoring efforts to transition the 'weekend-born' prototype into a scalable, mature startup architecture."
+    ],
+    "skills": [
+      "BLE (Bluetooth Low Energy)",
+      "Firebase ML Kit",
+      "CameraX",
+      "Google Maps SDK",
+      "RxJava",
+      "Dagger",
+      "Coroutines",
+      "Realtime Database"
+    ]
+  },
+  {
+    "company": "Urbvan",
+    "color": "#231F5C",
+    "duration": "Mar. 2017 - Jul. 2018",
+    "icon": "./images/urbvan.webp",
+    "brief": "Shared van shuttle service for urban commuting.",
+    "location": "Roma Sur, CDMX",
+    "position": "Android Developer",
+    "points": [
+      "As the first and sole mobile developer, took full ownership of the mobile ecosystem for a growing startup.",
+      "Successfully rewrote both the Rider and Driver applications from scratch in 2 months, implementing modern MVP and Clean Architecture.",
+      "Transitioned the codebase from an external agency's prototype to a profitable, scalable in-house product.",
+      "Integrated complex features including real-time GPS tracking via Google Location Services and payments via Stripe."
+    ],
+    "skills": [
+      "Java",
+      "Kotlin",
+      "MVP Architecture",
+      "Stripe Integration",
+      "Clean Architecture",
+      "ThreadPools",
+      "Google Maps",
+      "Adobe XD"
+    ]
+  },
+  {
+    "company": "MercadoLibre",
+    "color": "#FFE600",
+    "duration": "Sep. 2015 - Nov. 2016",
+    "icon": "./images/meli.webp",
+    "brief": "The largest e-commerce ecosystem in Latin America.",
+    "location": "CDMX",
+    "position": "Jr. Android Developer",
+    "points": [
+      "Built a foundational expertise in scalable Android code and rigorous unit testing methodologies.",
+      "Enhanced the SYI (Sell Your Item) flow, optimizing the core revenue-generating path for the platform.",
+      "Managed the AutoPlaza and TuCarro apps, utilizing Android Flavors to share a single codebase across different regional brands.",
+      "Played a key role in migrating house rental listings into the main MercadoLibre ecosystem following a major acquisition."
+    ],
+    "skills": [
+      "Java",
+      "MVP Architecture",
+      "Retrofit",
+      "Google Volley",
+      "JUnit",
+      "Mockito",
+      "Robolectric",
+      "Android Flavors"
+    ]
+  }
+]
